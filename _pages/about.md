@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://github.com/Vicent0205), Hong Kong University of Science and Technology (HKUST), supervised by Professor Junxian He. Professor Junxian He also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). I graduated from SJTU in June 2024.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), supervised by Professor Junxian He. Professor Junxian He also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). I graduated from SJTU in June 2024.
 
 My research focuses on natural language processing and machine learning. My research interests include:
 
@@ -42,7 +42,7 @@ My research focuses on natural language processing and machine learning. My rese
 
 1. **\*SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025).
    Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
-   *Arxiv*. ([Code](https://github.com/Vicent0205))
+   *Arxiv*. GitHub code repository available.
 
 2. **\*On the Perception Bottleneck of VLMs for Chart Understanding** (2025).
    Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
